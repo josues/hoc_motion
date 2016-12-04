@@ -2,9 +2,7 @@ var h = 500;
 var k = h/2;
 var n = 100;
 
-function setup(){ 
-  createCanvas(500,500); 
-}
+
 
 function draw(){
 background(255, 213, 211);
